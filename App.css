@@ -1,0 +1,15 @@
+.card-container {
+  background-color: #f7f7f7; /* Light gray background */
+  min-height: 100vh;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.card {
+  border-radius: 8px;
+  background-color: #fff;
+}
+
+.card-body {
+  padding: 1.5rem;
+}
